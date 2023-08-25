@@ -9,8 +9,6 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="220" width="140" alt="city-lights" src="fzUl.gif">
-    <h1 align="center">Studying...</h1>
-
 ### Studying...
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
