@@ -10,6 +10,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="220" width="140" alt="city-lights" src="fzUl.gif">
     <h1 align="center">Studying...</h1>
-    <img align="center" height="30" width="40" alt="py-icon"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">
-    <img align="center" height="30" width="40" alt="java-icon" src ="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-    <img align="center" height="30" width="50" alt="pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
+
+### Studying...
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
