@@ -8,5 +8,5 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="100" width="30" alt="city-lights" src="fzUl.gif">
+    <img align="left" height="180" width="100" alt="city-lights" src="fzUl.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
