@@ -8,5 +8,5 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="90" alt="new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" src="https://tenor.com/pt-BR/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
+    <img align="left" height="90" alt="city-lights" src="fzUl.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
