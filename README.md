@@ -3,12 +3,12 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=anabarrsm&show_icons=true&theme=tokyonight"/>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabarrsm&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabarrsm&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="220" width="140" alt="city-lights" src="fzUl.gif">
+    <img align="left" height="280" width="200" alt="city-lights" src="fzUl.gif">
   </div>
   
 ### Studying...
