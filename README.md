@@ -8,7 +8,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="280" width="200" alt="city-lights" src="fzUl.gif">
+    <img align="left" height="320" width="240" alt="city-lights" src="fzUl.gif">
   </div>
   
 ### Studying...
