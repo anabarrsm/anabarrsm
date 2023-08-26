@@ -10,7 +10,8 @@
   <div style="display: inline_block"><br>
     <img align="left" height="320" width="240" alt="city-lights" src="fzUl.gif">
   </div>
-  
+
+### Studying...
 <div style="display: inline_block"><br>
   <img align="center" alt="ana-Java" height="70" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
   <img align="center" alt="ana-pandas" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
