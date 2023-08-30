@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bem-vindxs+ao+meu+perfil!+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/color=FF1493?lines=bem-vindxs+ao+meu+perfil!+<3)](https://git.io/typing-svg)
 
 <div>
   
