@@ -1,4 +1,4 @@
-### Hello, World 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=bem-vindxs+ao+meu+perfil!+<3)](https://git.io/typing-svg)
 
 <div>
   
