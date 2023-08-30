@@ -16,3 +16,5 @@
   <img align="center" alt="ana-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:7B68EE,100:FF1493&height=100&section=footer" />
