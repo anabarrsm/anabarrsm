@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF1493&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&width=435&lines=bem-vindxs+ao+meu+perfil!+<3" alt="Typing SVG" /></a>
 <div>
   
@@ -6,11 +8,6 @@
 </div>
 <div align="center" style="display: inline-block"><br>
 <br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="320" width="240" alt="city-lights" src="fzUl.gif">
-  </div>
-
 
 <div align="center" style="display: inline-block"><br>
   <img align="center" alt="ana-html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
